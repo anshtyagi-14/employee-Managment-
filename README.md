@@ -88,3 +88,7 @@ This project is MIT Licensed – feel free to use and modify it.
 
 Contributions are welcome! Fork the repo, create a branch, and submit a PR. 😊
 
+<img width="1427" alt="Screenshot 2025-03-16 at 2 36 45 am" src="https://github.com/user-attachments/assets/eeed6349-0e71-4ed5-aca0-aeabd0f3a45e" />
+<img width="1426" alt="Screenshot 2025-03-16 at 2 36 59 am" src="https://github.com/user-attachments/assets/a4596d5b-3dda-4cdb-99c1-44a35fae370b" />
+
+
